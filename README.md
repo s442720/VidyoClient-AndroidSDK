@@ -16,8 +16,8 @@ APK: https://drive.google.com/file/d/1NXsYT9dDYNMookk_TDj-fQ5NwL67jEN7/view?usp=
 4. Disable the back button for android
 
 
-### The general architecture
-https://drive.google.com/open?id=1MSPbefRC9qbtcV2yRMpG5dOPnwlDeQQi
+### The project structure
+https://drive.google.com/open?id=1D18uljAF7XkxEM07RGzWRi6p-k5EvtPF
 
 ### The database(Firebase) structure
 https://drive.google.com/open?id=1nFh5k84dQRbj-keIq6r5Owb1NuiLIMN0
