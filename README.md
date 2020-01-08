@@ -21,3 +21,8 @@ https://drive.google.com/open?id=1D18uljAF7XkxEM07RGzWRi6p-k5EvtPF
 
 ### The database(Firebase) structure
 https://drive.google.com/open?id=1nFh5k84dQRbj-keIq6r5Owb1NuiLIMN0
+
+### C3 model
+Level1-Context: https://drive.google.com/open?id=1opFrW2VzLgrP2Wwq_U60mz8-0NJG38eu
+Level2-Container:  https://drive.google.com/open?id=13xKoe-hNmtZ6D32wMqFRdGQzr0wX8HBb
+Level3-Component: https://drive.google.com/open?id=1X3V6fOwF7ZBgZXDfaBLjMldqvk1Q9F5_
