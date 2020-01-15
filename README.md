@@ -17,7 +17,8 @@ APK: https://drive.google.com/file/d/1NXsYT9dDYNMookk_TDj-fQ5NwL67jEN7/view?usp=
 
 
 ### The project structure
-https://drive.google.com/open?id=1D18uljAF7XkxEM07RGzWRi6p-k5EvtPF
+v1: https://drive.google.com/open?id=1D18uljAF7XkxEM07RGzWRi6p-k5EvtPF
+v2: https://drive.google.com/open?id=15VLLEkFVJ5Sv7U4q3z4RIreH8d5ToitF
 
 ### The database(Firebase) structure
 https://drive.google.com/open?id=1nFh5k84dQRbj-keIq6r5Owb1NuiLIMN0
