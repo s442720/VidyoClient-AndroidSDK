@@ -3,18 +3,24 @@
 ### caller
 Code: https://github.com/s442720/VidyoClient-AndroidSDK-caller-v3
 
-APK: https://drive.google.com/file/d/10ZMNxFWBk6rrK-fzu3vjUpHIBvgo-61y/view?usp=sharing
+APK(old): https://drive.google.com/file/d/10ZMNxFWBk6rrK-fzu3vjUpHIBvgo-61y/view?usp=sharing
 
 ### receiver
 Code: https://github.com/s442720/VidyoClient-AndroidSDK-receiver-v3
 
-APK: https://drive.google.com/file/d/1NXsYT9dDYNMookk_TDj-fQ5NwL67jEN7/view?usp=sharing
+APK(old): https://drive.google.com/file/d/1NXsYT9dDYNMookk_TDj-fQ5NwL67jEN7/view?usp=sharing
 
+2020/01/03  v3
 1. Import more functions for video-chat (vidyo.io)
 2. Connect to the database(Firebase), and use "connected" argument(int) to control current status. (0: init, 1: connected successfully, 2: connection ended)
 3. Use modal in caller and AlertDialog in receiver
 4. Disable the back button for android
-
+-----------------------------------------------------------------------
+2020/01/15  v4
+1. Rewrite and simplify the parts of reading from and updating to firebase
+2. Delete login
+3. Dismiss the old database and connect to new one
+4. Change one of the attribute's name in "Call" column (connected -> status)
 
 ### The project structure
 v1: https://drive.google.com/open?id=1D18uljAF7XkxEM07RGzWRi6p-k5EvtPF <br/>
