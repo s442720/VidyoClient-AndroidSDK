@@ -3,12 +3,12 @@
 ### caller
 Code(new): https://github.com/s442720/VidyoClient-AndroidSDK-caller-v3
 
-APK(old): https://drive.google.com/file/d/10ZMNxFWBk6rrK-fzu3vjUpHIBvgo-61y/view?usp=sharing
+~~APK(old): https://drive.google.com/file/d/10ZMNxFWBk6rrK-fzu3vjUpHIBvgo-61y/view?usp=sharing~~
 
 ### receiver
 Code(new): https://github.com/s442720/VidyoClient-AndroidSDK-receiver-v3
 
-APK(old): https://drive.google.com/file/d/1NXsYT9dDYNMookk_TDj-fQ5NwL67jEN7/view?usp=sharing
+~~APK(old): https://drive.google.com/file/d/1NXsYT9dDYNMookk_TDj-fQ5NwL67jEN7/view?usp=sharing~~
 
 2020/01/03  v3
 1. Import more functions for video-chat (vidyo.io)
@@ -23,7 +23,7 @@ APK(old): https://drive.google.com/file/d/1NXsYT9dDYNMookk_TDj-fQ5NwL67jEN7/view
 4. Change one of the attribute's name in "Call" column (connected -> status)
 
 ### The project structure
-v1: https://drive.google.com/open?id=1D18uljAF7XkxEM07RGzWRi6p-k5EvtPF <br/>
+~~v1: https://drive.google.com/open?id=1D18uljAF7XkxEM07RGzWRi6p-k5EvtPF <br/>~~
 v2: https://drive.google.com/open?id=15VLLEkFVJ5Sv7U4q3z4RIreH8d5ToitF
 
 ### The database(Firebase) structure
