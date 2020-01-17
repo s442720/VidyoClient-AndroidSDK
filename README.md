@@ -24,7 +24,7 @@ Code(new): https://github.com/s442720/VidyoClient-AndroidSDK-receiver-v3
 
 ### The project structure
 ~~v1: https://drive.google.com/open?id=1D18uljAF7XkxEM07RGzWRi6p-k5EvtPF <br/>~~
-v2: https://drive.google.com/open?id=15VLLEkFVJ5Sv7U4q3z4RIreH8d5ToitF
+v2: https://drive.google.com/open?id=1kI0NXs-G3fk8CAEEu6RzZC01w_LTkQPC
 
 ### The database(Firebase) structure
 ~~v1: https://drive.google.com/open?id=1nFh5k84dQRbj-keIq6r5Owb1NuiLIMN0 <br/>~~
